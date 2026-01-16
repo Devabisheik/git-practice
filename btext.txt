@@ -1,1 +1,2 @@
 this is B text file
+second line in btext file
