@@ -1,1 +1,2 @@
 Line:1 Hello git-branch-2
+Line:2 ready to pull request
